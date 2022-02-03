@@ -1,10 +1,18 @@
 <h1 align="center">
-    Exercício Curso Python
+    API REST PYTHON + FLASK
 </h1>
 
-<h4 align="center">
-  Curso de Python em andamento...
+<h3 align="center">
+  Neste projeto criamos uma API para autenticação do usuário com banco de dados mocado, aonde podemos listar todos os usuários, lista um usuário pelo ID, podemos cadastrar um usuário no banco de dados, podemos atualizar as informações do usuário e por excluir um usuário do banco de dados.
+</h3>
+
+<h4 align="left">
+  Plano futuro para a APi, vamos criar uma documentação usando o swagger, criar uma autenticação com banco de dados real utilizando JWT e por fim hospedar nossa API em uma plataforma cloud na nudem.
 </h4>
+
+<h1 align="center">
+      AGUARDEMMM NOVIDADES LOGO LOGO...
+</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,31 +20,32 @@
   <a href="#memo-license">Licença</a>
 </p>
 
-<h4 align="left">
-  Exercício 01.
-</h4>
-<a href="https://imgur.com/yxgKcy8"><img src="https://i.imgur.com/yxgKcy8.png" title="source: imgur.com" /></a>
+<h3 align="left">
+  Api Rest Python com Flask
+</h3>
+<a href="https://imgur.com/O9LiYaS"><img src="https://i.imgur.com/O9LiYaS.png" title="source: imgur.com" /></a>
 
-<h4 align="left">
-  Exercício 02.
-</h4>
-<a href="https://imgur.com/xAHh2mY"><img src="https://i.imgur.com/xAHh2mY.png" title="source: imgur.com" /></a>
+<h3 align="left">
+ componente principal da Api
+</h3>
+<a href="https://imgur.com/XGwAgZs"><img src="https://i.imgur.com/XGwAgZs.png" title="source: imgur.com" /></a>
 
-<h4 align="left">
-  Exercício 03.
-</h4>
-<a href="https://imgur.com/EOMh8H6"><img src="https://i.imgur.com/EOMh8H6.png" title="source: imgur.com" /></a>
+<h3 align="left">
+  Componente de models da Api
+</h3>
+<a href="https://imgur.com/octaoth"><img src="https://i.imgur.com/octaoth.png" title="source: imgur.com" /></a>
 
-<h4 align="left">
-  Exercício 04.
-</h4>
-<a href="https://imgur.com/Ncke5E7"><img src="https://i.imgur.com/Ncke5E7.png" title="source: imgur.com" /></a>
+<h3 align="left">
+  Componente de Database da Api
+</h3>
+<a href="https://imgur.com/SII6p2a"><img src="https://i.imgur.com/SII6p2a.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
 Estes exercício foi feito do curso de python que estou estudando. Eu utizei a tecnologia logo abaixo:
 
 -  [PYTHON](https://www.python.org/)
+-  [FLASK](https://flask.palletsprojects.com/en/2.0.x/)
 
 ## :information_source: Como usar
 
@@ -44,17 +53,17 @@ Procedimento para executar os exercícios. Segue comandos abaixo:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/exercicio_python
+$ git clone https://github.com/SilvaneiMartins/api_user_python_flask
 
 # Acessar a pasta do projeto
-$ cd exercicio_python
+$ cd api_user_python_flask
 
 # Executar cada exercício
-$ python nome_do_arquivo
+$ python api.py
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/exercicio_python/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/api_user_python_flask/blob/master/LICENSE) for more information.
 
 ---
 
