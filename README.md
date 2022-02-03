@@ -7,7 +7,7 @@
 </h3>
 
 <h4 align="left">
-  Plano para o futuro da APi, vamos criar uma documentação usando o swagger, criar uma autenticação com banco de dados real utilizando JWT e por fim hospedar nossa API em uma plataforma cloud na nuvem.
+  Plano para o futuro da API, vamos criar uma documentação usando o swagger, criar uma autenticação com banco de dados real utilizando JWT e por fim hospedar nossa API em uma plataforma cloud na nuvem.
 </h4>
 
 <h1 align="center">
