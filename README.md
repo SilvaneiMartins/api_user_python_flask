@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Neste projeto criamos uma API para autenticação do usuário com banco de dados mocado, aonde podemos listar todos os usuários, lista um usuário pelo ID, podemos cadastrar um usuário no banco de dados, podemos atualizar as informações do usuário e por excluir um usuário do banco de dados.
+  Neste projeto criamos uma API para autenticação do usuário com banco de dados mocado, aonde podemos listar todos os usuários, lista um usuário pelo ID, podemos cadastrar um usuário no banco de dados, podemos atualizar as informações do usuário e por fim excluir um usuário pelo ID do banco de dados.
 </h3>
 
 <h4 align="left">
