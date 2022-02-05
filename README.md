@@ -42,7 +42,7 @@
 
 ## :rocket: Tecnologias
 
-Estes exercício foi feito do curso de python que estou estudando. Eu utizei a tecnologia logo abaixo:
+Criando para utilizar como uma ferramenta para authenticar em nosso projeto que vamos construir pagina de Login e Cadastro em React JS e uma App construido em React Native para testarmos nossos projetos Front-End e Mobile com API Rest Python + Flask. Eu utizei a tecnologia logo abaixo:
 
 -  [PYTHON](https://www.python.org/)
 -  [FLASK](https://flask.palletsprojects.com/en/2.0.x/)
